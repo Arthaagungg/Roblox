@@ -114,9 +114,7 @@ client.on('ready', async () => {
         url: 'https://cdn.discordapp.com/attachments/1397711965937336350/1430236126072934565/CITYPNG.COMHD_New_Roblox_Logo_Icon_PNG_-_800x800.png?ex=68f90ab0&is=68f7b930&hm=ab34f5e5a46164e1babd96b35a90e271127ab03786a2e303bdf1bc3bf54ec428&',
         assets: {
           large_image: 'https://cdn.discordapp.com/attachments/1397711965937336350/1430236126072934565/CITYPNG.COMHD_New_Roblox_Logo_Icon_PNG_-_800x800.png?ex=68f90ab0&is=68f7b930&hm=ab34f5e5a46164e1babd96b35a90e271127ab03786a2e303bdf1bc3bf54ec428&', // contoh gambar ikon
-          large_text: 'Playing Roblox',
-          small_image: 'https://cdn.discordapp.com/attachments/1397711965937336350/1430236126072934565/CITYPNG.COMHD_New_Roblox_Logo_Icon_PNG_-_800x800.png?ex=68f90ab0&is=68f7b930&hm=ab34f5e5a46164e1babd96b35a90e271127ab03786a2e303bdf1bc3bf54ec428&',
-          small_text: 'Roblox'
+          large_text: 'Playing Roblox'
         }
       }
     ],
